@@ -1,0 +1,11 @@
+{
+    "name": "cloudajour_testapi",
+    "version": "0.0.1",
+    "description": "Example agent, please change",
+    "main": "main.py",
+    "openiap": {
+        "daemon": true,
+        "chromium": false,
+        "language": "python"
+    }
+}
